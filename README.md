@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Oluwafemi Oluwatuyi</h1>
 <h3 align="center">A passionate Fullstack Developer with a focus on building highly available and scalable web applications. I enjoy tackling challenging problems and creating solutions that bridge the gap between world and technology.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oluwafemioluwatuyi" alt="oluwafemioluwatuyi" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwafemioluwatuyi&label=Profile%20views&color=0e75b6&style=flat" alt="oluwafemioluwatuyi" /> </p>
 
 - 🔭 I’m currently working on **Foodify(A food delivery application that enables users to order food from their favorite restaurants, with features like user registration, wallet system, and role management (customer, vendor, driver).**
 
 - 🌱 I’m currently learning **Azure Fundamentals: I am diving into cloud concepts and services offered by Azure to enhance my skills in cloud computing and deployment.**
 
-- 👯 I’m looking to collaborate on **Open-Source Projects: I love contributing to projects that make a difference in the community. Web Applications and Fintech Solutions.**
+- 👯 I’m looking to collaborate on **Open-Source Projects, Web Applications, and Fintech Solutions.**
 
 - 📫 How to reach me **oluwafemioluwatuyi8@gmail.com**
 
@@ -24,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oluwafemioluwatuyi&show_icons=true&locale=en" alt="oluwafemioluwatuyi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oluwafemioluwatuyi&" alt="oluwafemioluwatuyi" /></p>
-
